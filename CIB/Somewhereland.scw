@@ -1,0 +1,177 @@
+$ ScenarioWizard 4.0
+Somewhereland_en.scw
+&A. Government
+ --A1 "Patriots party"
+ --A2 "Prosperity party"
+ --A3 "Social party"
+&B. Foreign policy
+ --B1 Cooperation
+ --B2 Rivalry
+ --B3 Conflict
+&C. Economy
+ --C1 Shrinking
+ --C2 Stagnant
+ --C3 Dynamic
+&D. Distribution of wealth
+ --D1 Balanced
+ --D2 Strong contrasts
+&E. Social cohesion
+ --E1 Social peace
+ --E2 Tensions
+ --E3 Riots
+&F. Social values
+ --F1 Meritocratic
+ --F2 Solidarity
+ --F3 Family
+#
+&A
+ A1
+ A2
+ A3
+&B
+ B1
+ B2
+ B3
+&C
+ C1
+ C2
+ C3
+&D
+ D1
+ D2
+&E
+ E1
+ E2
+ E3
+&F
+ F1
+ F2
+ F3
+#
+#
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+#
+#
+ 0 , 0 , 0 ,-2 , 1 , 1 , 0 , 0 , 0 , 0 , 0 ,-2 , 1 , 1 , 0 , 0 , 0 
+ 0 , 0 , 0 , 2 , 1 ,-3 ,-2 ,-1 , 3 ,-2 , 2 , 0 , 0 , 0 , 2 ,-1 ,-1 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 2 ,-2 , 3 ,-3 , 2 ,-1 ,-1 ,-2 , 2 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 ,-2 , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 1 ,-1 , 0 , 0 , 1 , 0 ,-1 , 0 , 0 , 0 
+ 3 ,-1 ,-2 , 0 , 0 , 0 , 3 , 0 ,-3 , 0 , 0 , 3 ,-1 ,-2 ,-2 , 1 , 1 
+ 2 , 1 ,-3 , 0 , 0 , 0 , 0 , 0 , 0 ,-2 , 2 ,-3 , 1 , 2 , 0 , 0 , 0 
+-1 , 2 ,-1 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,-2 , 2 , 3 ,-1 ,-2 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 3 ,-1 ,-2 ,-2 , 1 , 1 
+ 0 ,-3 , 3 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,-3 , 1 , 2 , 2 ,-1 ,-1 
+ 0 , 0 , 0 , 0 , 0 , 0 ,-2 ,-1 , 3 , 0 , 0 , 0 , 0 , 0 , 2 ,-1 ,-1 
+ 0 , 0 , 0 ,-1 , 0 , 1 , 1 , 1 ,-2 , 0 , 0 , 0 , 0 , 0 ,-1 , 0 , 1 
+ 2 ,-1 ,-1 ,-3 , 1 , 2 , 3 , 0 ,-3 , 0 , 0 , 0 , 0 , 0 ,-2 ,-1 , 3 
+ 0 , 3 ,-3 , 0 , 0 , 0 ,-3 , 0 , 3 ,-3 , 3 ,-2 , 1 , 1 , 0 , 0 , 0 
+ 1 ,-2 , 1 , 0 , 0 , 0 ,-1 , 2 ,-1 , 2 ,-2 , 2 ,-1 ,-1 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 ,-1 , 2 ,-1 , 1 ,-1 , 2 ,-1 ,-1 , 0 , 0 , 0 
+#
+# 0-0
+"'Somewhereland' is a training exercise demonstrating the use of CIB (Cross-Impact Balance Analysis). The exercise deals with the societal development of the fictitious country 'Somewhereland'. 
+For more information about the CIB methodology see: http://www.cross-impact.de"
+# A
+""
+# B
+""
+# C
+""
+# D
+""
+# E
+""
+# F
+""
+# A -> A
+""
+# A -> B
+""
+# A -> C
+""
+# A -> D
+""
+# A -> E
+""
+# A -> F
+""
+# B -> A
+""
+# B -> B
+""
+# B -> C
+""
+# B -> D
+""
+# B -> E
+""
+# B -> F
+""
+# C -> A
+""
+# C -> B
+""
+# C -> C
+""
+# C -> D
+""
+# C -> E
+""
+# C -> F
+""
+# D -> A
+""
+# D -> B
+""
+# D -> C
+""
+# D -> D
+""
+# D -> E
+""
+# D -> F
+""
+# E -> A
+""
+# E -> B
+""
+# E -> C
+""
+# E -> D
+""
+# E -> E
+""
+# E -> F
+""
+# F -> A
+""
+# F -> B
+""
+# F -> C
+""
+# F -> D
+""
+# F -> E
+""
+# F -> F
+""
+#
+#
