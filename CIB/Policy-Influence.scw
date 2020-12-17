@@ -1,0 +1,206 @@
+$ ScenarioWizard 4.0
+Policy-Infuence.scw
+&Feed-in-tariff
+ -Yes
+ -No
+&Green Financing
+ -Yes
+ -No
+&Cap and Trade
+ -Yes
+ -No
+&Pandemic Rescue Package
+ -Yes
+ -No
+&Poverty (better income)
+ -Improve
+ -No Change
+ -Worsen
+&Energy Access
+ -Improve
+ -No Change
+ -Worsen
+&Cilmate Actions
+ -Improve
+ -No Change
+ -Worsen
+#
+&FIT
+ Y
+ N
+&GF
+ Y
+ N
+&CT
+ Y
+ N
+&PRP
+ Y
+ N
+&POV
+ +
+ NC
+ -
+&E-XS
+ +
+ NC
+ -
+&CC
+ +
+ NC
+ -
+#
+#
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+#
+#
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 
+#
+# 0-0
+""
+# FIT
+""
+# GF
+""
+# CT
+""
+# PRP
+""
+# POV
+""
+# E-XS
+""
+# CC
+""
+# FIT -> FIT
+""
+# FIT -> GF
+""
+# FIT -> CT
+""
+# FIT -> PRP
+""
+# FIT -> POV
+""
+# FIT -> E-XS
+""
+# FIT -> CC
+""
+# GF -> FIT
+""
+# GF -> GF
+""
+# GF -> CT
+""
+# GF -> PRP
+""
+# GF -> POV
+""
+# GF -> E-XS
+""
+# GF -> CC
+""
+# CT -> FIT
+""
+# CT -> GF
+""
+# CT -> CT
+""
+# CT -> PRP
+""
+# CT -> POV
+""
+# CT -> E-XS
+""
+# CT -> CC
+""
+# PRP -> FIT
+""
+# PRP -> GF
+""
+# PRP -> CT
+""
+# PRP -> PRP
+""
+# PRP -> POV
+""
+# PRP -> E-XS
+""
+# PRP -> CC
+""
+# POV -> FIT
+""
+# POV -> GF
+""
+# POV -> CT
+""
+# POV -> PRP
+""
+# POV -> POV
+""
+# POV -> E-XS
+""
+# POV -> CC
+""
+# E-XS -> FIT
+""
+# E-XS -> GF
+""
+# E-XS -> CT
+""
+# E-XS -> PRP
+""
+# E-XS -> POV
+""
+# E-XS -> E-XS
+""
+# E-XS -> CC
+""
+# CC -> FIT
+""
+# CC -> GF
+""
+# CC -> CT
+""
+# CC -> PRP
+""
+# CC -> POV
+""
+# CC -> E-XS
+""
+# CC -> CC
+""
+#
+#
